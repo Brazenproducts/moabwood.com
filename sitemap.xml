@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://moabwood.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://moabwood.com/best-best-moab-desert-campfire-wood-fire-pit-fuel-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://moabwood.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://moabwood.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://moabwood.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://moabwood.com/moabwood-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://moabwood.com/what-we-look-for-moabwood-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-buyers-handbook-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-guide-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-explained-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-market-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://moabwood.com/smart-moabwood-shopping-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-worth-the-upgrade-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-compared-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://moabwood.com/moabwood-quality-vs-marketing.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://moabwood.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
